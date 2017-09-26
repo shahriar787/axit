@@ -1,0 +1,737 @@
+/*Extra small*/
+
+@media (max-width:767px) {
+    /*
+=====================
+    Header
+=====================
+*/
+    header .header_content .header_title h1 {
+        font-size: 17px;
+        color: #fff;
+        font-weight: 500;
+        font-family: sans-serif;
+    }
+    header .header_content .header_title p {
+        font-size: 14px;
+        color: #fff;
+        font-weight: 500;
+        font-family: sans-serif;
+    }
+    header .download_btn {
+        margin-top: 30px;
+    }
+    header .form_content {
+        margin-top: 68px;
+        background-color: white;
+        margin-bottom: 30px;
+    }
+    .social_heading h3 {
+        font-size: 18px;
+        font-weight: bold;
+        color: #222;
+        font-family: sans-serif;
+    }
+    .social_heading p {
+        font-size: 12px;
+        font-weight: 400;
+        color: #CCCCCC;
+        font-family: sans-serif;
+    }
+    .social_icons a {
+        display: inline-block;
+        padding: 8px 10px;
+    }
+    .social_icons a i {
+        font-size: 20px;
+        color: #CCCCCC;
+    }
+    /*
+====================
+    Feature Content
+====================
+*/
+    .tabs_content {
+        margin-top: 30px;
+    }
+    .feature_data_text {
+        margin-top: -105px;
+    }
+    .feature_download {
+        margin-bottom: 50px;
+    }
+    .feature_data_text p {
+        font-size: 12px;
+        font-weight: 400;
+        color: #222;
+        font-family: sans-serif;
+        margin: 0;
+        margin-bottom: 0px;
+        line-height: 20px;
+        margin-bottom: 20px;
+    }
+    .feature_data_text h1 {
+    font-size: 16px;
+    font-weight: bold;
+    color: #222;
+    font-family: sans-serif;
+    margin: 0;
+        margin-bottom: 0px;
+    margin-bottom: 20px;
+    }
+
+ /*
+====================
+    SubList
+====================
+*/
+    .sub_data h2 {
+        font-size: 18px;
+        font-weight: 600;
+        color: #212121;
+        font-family: sans-serif;
+        margin-bottom: 20px;
+    }
+    .sub_img,
+    .sub_data {
+        margin-top: 0px;
+    }
+    .sub_data p {
+        font-size: 12px;
+        font-weight: 300;
+        color: #ccc;
+        font-family: sans-serif;
+        margin-bottom: 20px;
+    }
+    .sub_text p {
+        font-size: 12px;
+        font-weight: 300;
+        font-family: sans-serif;
+        color: #95969a;
+    }
+    
+    
+
+    
+    
+/*
+====================
+Standard Feature
+====================
+*/
+    
+.standard_data h3 {
+    font-size: 16px;
+    font-weight: 600;
+    color: #212121;
+    font-family: sans-serif;
+    margin-bottom: 20px;
+}
+
+.standard_data, .standard_img {
+    margin-top: 10px;
+}  
+    
+
+/*
+====================
+Service
+====================
+*/
+.service_title h1 {
+    font-size: 22px;
+    font-weight: 500;
+    color: #222;
+    font-family: sans-serif;
+    margin-bottom: 30px;
+}    
+    
+.service_data_text h2 {
+    font-size: 17px;
+    color: #333;
+    font-weight: 600;
+    font-family: sans-serif;
+    margin-bottom: 30px;
+}
+    
+.service_data_text p {
+    font-size: 12px;
+    color: #86878B;
+    font-weight: 200;
+    font-family: sans-serif;
+    margin-bottom: 30px;
+}
+    
+
+/*
+====================
+ Price
+====================
+*/
+.price_title h2 {
+    font-size: 22px;
+    font-weight: 500;
+    font-family: sans-serif;
+    color: #333;
+    text-transform: uppercase;
+    margin-bottom: 32px;
+}
+/*
+====================
+Carousel
+====================
+*/
+
+.carousel-control .glyphicon-chevron-left, .carousel-control .icon-prev {
+    left: 50%;
+    margin-left: 15px;
+}
+.carousel-control .glyphicon-chevron-right, .carousel-control .icon-next {
+    right: 50%;
+    margin-right: 15px;
+}  
+/*
+====================
+ Testimonial
+====================
+*/
+  .testimonial_title h1 {
+    font-size: 16px;
+    font-weight: 500;
+    color: #333;
+    font-family: sans-serif;
+    margin-bottom: 30px;
+    margin-top: 50px;
+}
+/*
+====================
+Axure Feature
+====================
+*/    
+    
+.axure_content h1 {
+    color: #fff;
+    text-align: center;
+    font-weight: 500;
+    font-size: 22px;
+    font-family: sans-serif;
+    margin-bottom: 30px;
+    margin-top: 72px;
+}
+.axure_content p {
+    color: #EAEBED;
+    font-weight: 500;
+    font-size: 12px;
+    font-family: sans-serif;
+    margin-bottom: 30px;
+}
+
+    
+/*
+====================
+Contact
+====================
+*/     
+.contact_info h1 {
+    color: #333;
+    text-transform: uppercase;
+    font-weight: 500;
+    margin-bottom: 30px;
+    font-family: sans-serif;
+    font-size: 22px;
+}
+    
+.send_button .btn-default {
+    background-color: #FF8B38;
+    border: 0;
+    padding: 10px 28px;
+    color: #fff;
+    font-size: 14px;
+    font-weight: 500;
+    font-family: sans-serif;
+    margin-bottom: 30px;
+}
+    
+    
+/*
+====================
+Footer
+====================
+*/
+ .footer_content .footer_social_icons a {
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    display: inline-block;
+    color: #fff;
+    text-align: center;
+}   
+ .footer_content .footer_social_icons a i {
+    font-size: 20px;
+    color: #CCCCCC;
+    padding: 0px 10px;
+}   
+
+}
+
+
+/*Small */
+
+@media (min-width:768px) and (max-width:991px) {
+
+/*
+====================
+   Header
+====================
+*/
+    header .header_content .header_title h1 {
+        font-size: 21px;
+        color: #fff;
+        font-weight: 500;
+        font-family: sans-serif;
+    }
+
+    header .header_content .header_title p {
+        font-size: 14px;
+        color: #fff;
+        font-weight: 500;
+        font-family: sans-serif;
+    }
+
+    header .download_btn .btn-default {
+        background-color: transparent;
+        border-radius: 0;
+        border: 2px solid #fff;
+        color: #fff;
+        margin-top: 42px;
+    }
+    header .form_content .form_title h4 {
+        color: #333;
+        font-size: 14px;
+        font-family: sans-serif;
+        font-weight: 600;
+        text-align: center;
+        padding: 17px 10px;
+        background-color: #F5F5F5;
+    }
+
+/*
+====================
+    Social
+====================
+*/
+
+    .social_heading h3 {
+        font-size: 18px;
+        font-weight: bold;
+        color: #222;
+        font-family: sans-serif;
+    }
+    .social_heading p {
+        font-size: 12px;
+        font-weight: 400;
+        color: #CCCCCC;
+        font-family: sans-serif;
+    }
+
+    .social_icons a {
+        display: inline-block;
+        padding: 32px 8px;
+    }
+    .social_icons a i {
+        font-size: 30px;
+        color: #CCCCCC;
+    }
+
+
+
+
+/*
+====================
+    Feature
+====================
+*/
+    .feature_data_text h1 {
+        font-size: 16px;
+        font-weight: bold;
+        color: #222;
+        font-family: sans-serif;
+        margin: 0;
+        margin-bottom: 0px;
+        margin-bottom: 20px;
+    }
+
+    .feature_data_text p {
+         font-size: 12px;
+         font-weight: 400;
+         color: #222;
+         font-family: sans-serif;
+         margin: 0;
+         margin-bottom: 0px;
+         line-height: 20px;
+         margin-bottom: 20px;
+     }
+
+
+/*
+====================
+    SubList
+====================
+*/
+    .sub_data h2 {
+      font-size: 18px;
+      font-weight: 600;
+      color: #212121;
+      font-family: sans-serif;
+      margin-bottom: 20px;
+     }
+    .sub_data p {
+        font-size: 12px;
+        font-weight: 300;
+        color: #ccc;
+        font-family: sans-serif;
+        margin-bottom: 20px;
+    }
+
+    .sub_text {
+        margin-left:0px;
+    }
+
+    .sub_text p {
+        font-size: 12px;
+        font-weight: 300;
+        font-family: sans-serif;
+        color: #95969a;
+    }
+
+
+
+/*
+====================
+    Standard
+====================
+*/
+    .standard_data h3 {
+        font-size: 18px;
+        font-weight: 600;
+        color: #212121;
+        font-family: sans-serif;
+        margin-bottom: 20px;
+    }
+    .standard_data p {
+        font-size: 12px;
+        font-weight: 300;
+        color: #606060;
+        font-family: sans-serif;
+        margin-bottom: 20px;
+    }
+
+
+/*
+====================
+    Service
+====================
+*/
+    .service_title h1 {
+        font-size: 30px;
+        font-weight: 500;
+        color: #222;
+        font-family: sans-serif;
+        margin-bottom: 30px;
+    }
+    .service_data_text p {
+        font-size: 12px;
+        color: #86878B;
+        font-weight: 200;
+        font-family: sans-serif;
+        margin-bottom: 30px;
+    }
+
+
+
+
+
+
+
+
+
+/*
+====================
+    Pricing
+====================
+*/
+    .price_title h2 {
+        font-size: 32px;
+        font-weight: 500;
+        font-family: sans-serif;
+        color: #333;
+        text-transform: uppercase;
+        margin-bottom: 32px;
+    }
+
+    .table_text {
+        font-size: 12px;
+        text-align: center;
+        text-transform: uppercase;
+        background-color: #FFFFFF;
+        color: #95969A;
+    }
+
+
+
+
+
+
+
+/*
+====================
+    Testimonial
+====================
+*/
+    .testimonial_title h1 {
+        font-size: 32px;
+        font-weight: 500;
+        color: #333;
+        font-family: sans-serif;
+        margin-bottom: 30px;
+        margin-top: 50px;
+    }
+
+
+
+/*
+====================
+    Axure
+====================
+*/
+
+  .axure_content h1 {
+        color: #fff;
+        text-align: center;
+        font-weight: 500;
+        font-size: 32px;
+        font-family: sans-serif;
+        margin-bottom: 30px;
+        margin-top: 72px;
+    }
+
+
+
+/*
+====================
+    Contact
+====================
+*/
+    .contact_info h1 {
+        color: #333;
+        text-transform: uppercase;
+        font-weight: 500;
+        margin-bottom: 30px;
+        font-family: sans-serif;
+        font-size: 32px;
+    }
+
+
+
+}
+
+
+/*Medium*/
+
+@media (min-width:992px) and (max-width: 1199px) {
+
+/*
+====================
+ Header
+====================
+*/
+
+    header .header_content .header_title h1 {
+        font-size: 25px;
+        color: #fff;
+        font-weight: 6500;
+        font-family: sans-serif;
+    }
+
+    header .header_content .header_title p {
+        font-size: 14px;
+        color: #fff;
+        font-weight: 500;
+        font-family: sans-serif;
+        margin-top: 30px;
+        margin-bottom: 40px;
+    }
+    header .form_content .form_title h4 {
+        color: #333;
+        font-size: 17px;
+        font-family: sans-serif;
+        font-weight: 600;
+        text-align: center;
+        padding: 17px 10px;
+        background-color: #F5F5F5;
+    }
+
+
+
+/*
+====================
+    Social
+====================
+*/
+    .social_heading h3 {
+      font-size: 18px;
+      font-weight: bold;
+      color: #222;
+      font-family: sans-serif;
+  }
+
+    .social_heading p {
+        font-size: 13px;
+        font-weight: 400;
+        color: #CCCCCC;
+        font-family: sans-serif;
+    }
+    .social_icons a {
+        display: inline-block;
+        padding: 32px 10px;
+    }
+    .social_icons a i {
+        font-size: 40px;
+        color: #CCCCCC;
+    }
+
+
+
+
+
+/*
+====================
+    Feature Content
+====================
+*/
+    .feature_data_text h1 {
+        font-size: 17px;
+        font-weight: bold;
+        color: #222;
+        font-family: sans-serif;
+        margin: 0;
+        margin-bottom: 0px;
+        margin-bottom: 20px;
+    }
+    .feature_data_text p {
+        font-size: 13px;
+        font-weight: 400;
+        color: #222;
+        font-family: sans-serif;
+        margin: 0;
+        margin-bottom: 0px;
+        line-height: 20px;
+        margin-bottom: 20px;
+    }
+
+
+/*
+====================
+    Sublist
+====================
+*/
+    .sub_data h2 {
+        font-size: 18px;
+        font-weight: 600;
+        color: #212121;
+        font-family: sans-serif;
+        margin-bottom: 20px;
+    }
+    .sub_text p {
+        font-size: 13px;
+        font-weight: 300;
+        font-family: sans-serif;
+        color: #95969a;
+    }
+
+
+
+
+
+
+
+/*
+====================
+   Standard
+====================
+*/
+
+    .standard_data h3 {
+        font-size: 18px;
+        font-weight: 600;
+        color: #212121;
+        font-family: sans-serif;
+        margin-bottom: 20px;
+    }
+
+    .standard_data p {
+        font-size: 13px;
+        font-weight: 300;
+        color: #606060;
+        font-family: sans-serif;
+        margin-bottom: 20px;
+    }
+
+
+
+}
+
+
+/*Large*/
+
+@media (min-width:1200px) {
+
+
+/*
+====================
+       Standard
+====================
+*/
+
+    .social_icons a i {
+        font-size: 40px;
+        color: #CCCCCC;
+    }
+
+
+/*
+====================
+       Standard
+====================
+*/
+
+
+
+/*
+====================
+   Standard
+====================
+*/
+
+
+
+/*
+====================
+   Standard
+====================
+*/
+
+/*
+====================
+   Standard
+====================
+*/
+
+
+
+
+
+
+
+
+}
